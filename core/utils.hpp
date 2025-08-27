@@ -3,6 +3,6 @@
 
 #include <iostream>
 
-void print(std::string text, int delay = 10000);
+void print(std::string text, int delay = 50);
 
 #endif
